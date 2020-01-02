@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: template.aux
+The style file: spbasic.bst
+Database file #1: mybibfile.bib
+Repeated entry---line 220 of file mybibfile.bib
+ : @article{Mickovski2011Simulation
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 442 of file mybibfile.bib
+ : @article{Fan2008Role
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 518 of file mybibfile.bib
+ : @article{Waldron1977The
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 549 of file mybibfile.bib
+ : @article{Deng2007Test
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 559 of file mybibfile.bib
+ : @article{Fan2008Role
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 569 of file mybibfile.bib
+ : @article{Ji2012Effect
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 579 of file mybibfile.bib
+ : @article{Fan2014Influence
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 616 of file mybibfile.bib
+ : @article{Islam2013Reinforcing
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 707 of file mybibfile.bib
+ : @article{Waldron1977The
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 827 of file mybibfile.bib
+ : @article{Tard2015Method
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 863 of file mybibfile.bib
+ : @article{yang2016situ
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 951 of file mybibfile.bib
+ : @article{Temgoua2017A
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 961 of file mybibfile.bib
+ : @article{Temgoua2017A
+ :                      ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Zarnani2011C"
+Warning--I didn't find a database entry for "Ranjan2017Enhancement"
+`journal' is a missing field, not a string, for entry Endo1980Effect
+while executing---line 1650 of file spbasic.bst
+Warning--empty journal in Endo1980Effect
+`journal' is a missing field, not a string, for entry jot2014I
+while executing---line 1650 of file spbasic.bst
+Warning--empty journal in jot2014I
+`journal' is a missing field, not a string, for entry orgHillslope
+while executing---line 1650 of file spbasic.bst
+Warning--empty journal in orgHillslope
+(There were 16 error messages)
