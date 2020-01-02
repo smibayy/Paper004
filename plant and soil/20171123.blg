@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: 20171123.aux
+Case mismatch error between cite keys Mickovski2011Simulation and mickovski2011simulation
+---line 106 of file 20171123.aux
+ : \citation{Mickovski2011Simulation
+ :                                  ,Lin2013,Fan2014Influence}
+I'm skipping whatever remains of this command
+The style file: spbasic.bst
+Database file #1: mybibfile.bib
+Repeated entry---line 220 of file mybibfile.bib
+ : @article{Mickovski2011Simulation
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 442 of file mybibfile.bib
+ : @article{Fan2008Role
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 518 of file mybibfile.bib
+ : @article{Waldron1977The
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 549 of file mybibfile.bib
+ : @article{Deng2007Test
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 559 of file mybibfile.bib
+ : @article{Fan2008Role
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 569 of file mybibfile.bib
+ : @article{Ji2012Effect
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 579 of file mybibfile.bib
+ : @article{Fan2014Influence
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 616 of file mybibfile.bib
+ : @article{Islam2013Reinforcing
+ :                              ,
+I'm skipping whatever remains of this entry
+`journal' is a missing field, not a string, for entry Endo1980Effect
+while executing---line 1650 of file spbasic.bst
+Warning--empty journal in Endo1980Effect
+`journal' is a missing field, not a string, for entry jot2014I
+while executing---line 1650 of file spbasic.bst
+Warning--empty journal in jot2014I
+`journal' is a missing field, not a string, for entry orgHillslope
+while executing---line 1650 of file spbasic.bst
+Warning--empty journal in orgHillslope
+(There were 12 error messages)
