@@ -1,0 +1,584 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.4.13)  9 FEB 2018 17:41
+entering extended mode
+**E:/1paper_writing/two/Plant*and*Soil*LaTeX/soilscience.tex
+("E:/1paper_writing/two/Plant and Soil LaTeX/soilscience.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(E:\CTEX\MiKTeX\tex\latex\base\fix-cm.sty
+Package: fix-cm 2006/09/13 v1.1m fixes to LaTeX
+
+(E:\CTEX\MiKTeX\tex\latex\base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+))
+("E:\1paper_writing\two\Plant and Soil LaTeX\svjour3.cls"
+Document Class: svjour3 2007/05/08 v3.2 
+LaTeX document class for Springer journals
+Class Springer-SVJour3 Info: extra/valid Springer sub-package (-> *.clo) 
+(Springer-SVJour3)           not found in option list of \documentclass
+(Springer-SVJour3)           - autoactivating "global" style.
+("E:\1paper_writing\two\Plant and Soil LaTeX\svglov3.clo"
+File: svglov3.clo 2009/12/18 v3.2 style option for standardised journals
+
+SVJour Class option: svglov3.clo for standardised journals
+)
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 147.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 148.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 149.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 150.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 151.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 152.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 153.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 154.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 156.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 157.
+\logodepth=\dimen102
+\headerboxheight=\dimen103
+\betweenumberspace=\dimen104
+\aftertext=\dimen105
+\headlineindent=\dimen106
+\c@inst=\count79
+\c@auth=\count80
+\instindent=\dimen107
+\authrun=\box26
+\authorrunning=\toks14
+\titrun=\box27
+\titlerunning=\toks15
+\combirun=\box28
+\c@lastpage=\count81
+\rubricwidth=\dimen108
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\spthmsep=\dimen109
+\c@theorem=\count87
+\c@case=\count88
+\c@conjecture=\count89
+\c@corollary=\count90
+\c@definition=\count91
+\c@example=\count92
+\c@exercise=\count93
+\c@lemma=\count94
+\c@note=\count95
+\c@problem=\count96
+\c@property=\count97
+\c@proposition=\count98
+\c@question=\count99
+\c@solution=\count100
+\c@remark=\count101
+\c@figure=\count102
+\c@table=\count103
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\figcapgap=\dimen110
+\tabcapgap=\dimen111
+\figgap=\dimen112
+\bibindent=\dimen113
+\@tempcntc=\count104
+) (E:\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(E:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(E:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(E:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(E:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(E:\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(E:\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(E:\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count105
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+(E:\CTEX\MiKTeX\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count106
+)
+(E:\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(E:\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(E:\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen116
+))
+(E:\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen117
+)
+(E:\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count107
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count108
+\leftroot@=\count109
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count110
+\DOTSCASE@=\count111
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen118
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+
+
+Package amsmath Warning: Unable to redefine math accent \vec.
+
+\macc@depth=\count112
+\c@MaxMatrixCols=\count113
+\dotsspace@=\muskip10
+\c@parentequation=\count114
+\dspbrk@lvl=\count115
+\tag@help=\toks18
+\row@=\count116
+\column@=\count117
+\maxfields@=\count118
+\andhelp@=\toks19
+\eqnshift@=\dimen119
+\alignsep@=\dimen120
+\tagshift@=\dimen121
+\tagwidth@=\dimen122
+\totwidth@=\dimen123
+\lineht@=\dimen124
+\@envbody=\toks20
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+) (E:\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+(E:\CTEX\MiKTeX\tex\latex\multirow\multirow.sty
+\bigstrutjot=\dimen125
+)
+(E:\CTEX\MiKTeX\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen126
+\lightrulewidth=\dimen127
+\cmidrulewidth=\dimen128
+\belowrulesep=\dimen129
+\belowbottomsep=\dimen130
+\aboverulesep=\dimen131
+\abovetopsep=\dimen132
+\cmidrulesep=\dimen133
+\cmidrulekern=\dimen134
+\defaultaddspace=\dimen135
+\@cmidla=\count119
+\@cmidlb=\count120
+\@aboverulesep=\dimen136
+\@belowrulesep=\dimen137
+\@thisruleclass=\count121
+\@lastruleclass=\count122
+\@thisrulewidth=\dimen138
+)
+(E:\CTEX\MiKTeX\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip48
+\subfigcapskip=\skip49
+\subfigcaptopadj=\dimen139
+\subfigbottomskip=\skip50
+\subfigcapmargin=\dimen140
+\subfiglabelskip=\skip51
+\c@subfigure=\count123
+\c@lofdepth=\count124
+\c@subtable=\count125
+\c@lotdepth=\count126
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(E:\CTEX\MiKTeX\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip52
+\subfig@bottom=\skip53
+)
+(E:\CTEX\MiKTeX\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(E:\CTEX\MiKTeX\tex\latex\lineno\lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count127
+\output=\toks22
+\linenoprevgraf=\count128
+\linenumbersep=\dimen141
+\linenumberwidth=\dimen142
+\c@linenumber=\count129
+\c@pagewiselinenumber=\count130
+\c@LN@truepage=\count131
+\c@internallinenumber=\count132
+\c@internallinenumbers=\count133
+\quotelinenumbersep=\dimen143
+\bframerule=\dimen144
+\bframesep=\dimen145
+\bframebox=\box31
+LaTeX Info: Redefining \\ on input line 3056.
+)
+("E:\1paper_writing\two\Plant and Soil LaTeX\soilscience.aux"
+
+LaTeX Warning: Label `efg' multiply defined.
+
+
+LaTeX Warning: Label `sub@efg' multiply defined.
+
+
+LaTeX Warning: Label `eym' multiply defined.
+
+
+LaTeX Warning: Label `sub@eym' multiply defined.
+
+
+LaTeX Warning: Label `ezh' multiply defined.
+
+
+LaTeX Warning: Label `sub@ezh' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+ (E:\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count134
+\scratchdimen=\dimen146
+\scratchbox=\box32
+\nofMPsegments=\count135
+\nofMParguments=\count136
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count137
+\MPscratchDim=\dimen147
+\MPnumerator=\count138
+\makeMPintoPDFobject=\count139
+\everyMPtoPDFconversion=\toks24
+)
+LaTeX Font Info:    Calculating math sizes for size <9.5> on input line 95.
+LaTeX Font Info:    Try loading font information for U+msa on input line 95.
+ (E:\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 95.
+
+(E:\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+
+SVJour3 Warning: Title too long for running head.
+Please supply a shorter form with \titlerunning prior to \maketitle
+[1{E:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}] [2]
+
+Package natbib Warning: Citation `Zarnani2011C' on page 3 undefined on input li
+ne 114.
+
+
+Package natbib Warning: Citation `Ranjan2017Enhancement' on page 3 undefined on
+ input line 114.
+
+[3]
+Missing character: There is no Ã in font cmr9!
+Missing character: There is no ­ in font cmr9!
+Missing character: There is no Ã in font cmr9!
+Missing character: There is no ­ in font cmr9!
+Missing character: There is no Ã in font cmr9!
+Missing character: There is no ­ in font cmr9!
+ [4] [5] [6] [7]
+Underfull \vbox (badness 2698) has occurred while \output is active []
+
+ [8]
+[9] [10] [11]
+Underfull \vbox (badness 4120) has occurred while \output is active []
+
+ [12]
+[13] [14] [15] [16] [17]
+Underfull \vbox (badness 1092) has occurred while \output is active []
+
+ [18]
+[19] [20] [21]
+Underfull \vbox (badness 4913) has occurred while \output is active []
+
+ [22]
+[23]
+Underfull \vbox (badness 2846) has occurred while \output is active []
+
+ [24]
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+
+ []
+
+("E:\1paper_writing\two\Plant and Soil LaTeX\soilscience.bbl" [25]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]
+Missing character: There is no Ã in font cmr9!
+Missing character: There is no ­ in font cmr9!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+Missing character: There is no Ã in font cmr9!
+Missing character: There is no © in font cmr9!
+)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Missing character: There is no â in font cmr8!
+Missing character: There is no € in font cmr8!
+Missing character: There is no ™ in font cmr8!
+
+Overfull \hbox (116.29001pt too wide) in paragraph at lines 370--380
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 370--380
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (112.17374pt too wide) in paragraph at lines 387--401
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (250.9433pt too wide) in paragraph at lines 406--424
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 426.
+
+[28] [29] [30] <Fig00.jpg, id=115, 2174.1225pt x 2276.505pt>
+File: Fig00.jpg Graphic file (type jpg)
+ <use Fig00.jpg>
+Package pdftex.def Info: Fig00.jpg used on input line 443.
+(pdftex.def)             Requested size: 260.25pt x 272.47408pt.
+
+<rootsystem.jpg, id=116, 342.68025pt x 171.64125pt>
+File: rootsystem.jpg Graphic file (type jpg)
+ <use rootsystem.jpg>
+Package pdftex.def Info: rootsystem.jpg used on input line 451.
+(pdftex.def)             Requested size: 260.25pt x 130.36226pt.
+
+<Fig1.jpg, id=117, 299.9205pt x 170.43675pt>
+File: Fig1.jpg Graphic file (type jpg)
+ <use Fig1.jpg>
+Package pdftex.def Info: Fig1.jpg used on input line 460.
+(pdftex.def)             Requested size: 260.25pt x 147.89905pt.
+
+<Fig2.jpg, id=118, 938.3055pt x 665.48625pt>
+File: Fig2.jpg Graphic file (type jpg)
+ <use Fig2.jpg>
+Package pdftex.def Info: Fig2.jpg used on input line 467.
+(pdftex.def)             Requested size: 260.25pt x 184.57814pt.
+
+<Fig3.jpg, id=119, 566.05478pt x 485.47372pt>
+File: Fig3.jpg Graphic file (type jpg)
+ <use Fig3.jpg>
+Package pdftex.def Info: Fig3.jpg used on input line 473.
+(pdftex.def)             Requested size: 260.25pt x 223.20949pt.
+
+<Fig4.jpg, id=120, 1128.01425pt x 567.3195pt>
+File: Fig4.jpg Graphic file (type jpg)
+ <use Fig4.jpg>
+Package pdftex.def Info: Fig4.jpg used on input line 479.
+(pdftex.def)             Requested size: 260.25pt x 130.88759pt.
+Missing character: There is no ï in font cmr8!
+Missing character: There is no ¼ in font cmr8!
+Missing character: There is no › in font cmr8!
+Missing character: There is no ï in font cmr8!
+Missing character: There is no ¼ in font cmr8!
+Missing character: There is no › in font cmr8!
+
+<Fig13.jpg, id=121, 657.05475pt x 579.3645pt>
+File: Fig13.jpg Graphic file (type jpg)
+ <use Fig13.jpg>
+Package pdftex.def Info: Fig13.jpg used on input line 486.
+(pdftex.def)             Requested size: 260.25pt x 229.47855pt.
+
+<Fig5.jpg, id=122, 879.285pt x 380.01974pt>
+File: Fig5.jpg Graphic file (type jpg)
+ <use Fig5.jpg>
+Package pdftex.def Info: Fig5.jpg used on input line 492.
+(pdftex.def)             Requested size: 347.0pt x 149.96988pt.
+
+<Fig6.jpg, id=123, 1530.31725pt x 1126.2075pt>
+File: Fig6.jpg Graphic file (type jpg)
+ <use Fig6.jpg>
+Package pdftex.def Info: Fig6.jpg used on input line 499.
+(pdftex.def)             Requested size: 347.0pt x 255.36197pt.
+
+<Fig10.jpg, id=124, 1521.2835pt x 599.23875pt>
+File: Fig10.jpg Graphic file (type jpg)
+ <use Fig10.jpg>
+Package pdftex.def Info: Fig10.jpg used on input line 505.
+(pdftex.def)             Requested size: 260.25pt x 102.5093pt.
+
+<Fig15.jpg, id=125, 845.559pt x 597.432pt>
+File: Fig15.jpg Graphic file (type jpg)
+ <use Fig15.jpg>
+Package pdftex.def Info: Fig15.jpg used on input line 511.
+(pdftex.def)             Requested size: 260.25pt x 183.88017pt.
+
+<Fig14.jpg, id=126, 845.559pt x 597.432pt>
+File: Fig14.jpg Graphic file (type jpg)
+ <use Fig14.jpg>
+Package pdftex.def Info: Fig14.jpg used on input line 517.
+(pdftex.def)             Requested size: 260.25pt x 183.88017pt.
+
+<Fig16.jpg, id=127, 845.559pt x 597.432pt>
+File: Fig16.jpg Graphic file (type jpg)
+ <use Fig16.jpg>
+Package pdftex.def Info: Fig16.jpg used on input line 523.
+(pdftex.def)             Requested size: 260.25pt x 183.88017pt.
+
+<upslope.jpg, id=128, 844.1136pt x 1192.9368pt>
+File: upslope.jpg Graphic file (type jpg)
+ <use upslope.jpg>
+Package pdftex.def Info: upslope.jpg used on input line 531.
+(pdftex.def)             Requested size: 195.27649pt x 275.97153pt.
+
+<Mid-slope.jpg, id=129, 844.1136pt x 1202.5728pt>
+File: Mid-slope.jpg Graphic file (type jpg)
+ <use Mid-slope.jpg>
+Package pdftex.def Info: Mid-slope.jpg used on input line 533.
+(pdftex.def)             Requested size: 195.27649pt x 278.2007pt.
+
+<downslope.jpg, id=130, 844.1136pt x 1200.6456pt>
+File: downslope.jpg Graphic file (type jpg)
+ <use downslope.jpg>
+Package pdftex.def Info: downslope.jpg used on input line 535.
+(pdftex.def)             Requested size: 195.27649pt x 277.75487pt.
+
+Overfull \hbox (52.23193pt too wide) in paragraph at lines 531--536
+[][] []
+ []
+
+
+LaTeX Warning: Float too large for page by 55.84093pt on input line 538.
+
+<ru.jpg, id=131, 845.559pt x 597.432pt>
+File: ru.jpg Graphic file (type jpg)
+ <use ru.jpg>
+Package pdftex.def Info: ru.jpg used on input line 542.
+(pdftex.def)             Requested size: 195.27649pt x 137.97166pt.
+
+<rm.jpg, id=132, 845.559pt x 597.432pt>
+File: rm.jpg Graphic file (type jpg)
+ <use rm.jpg>
+Package pdftex.def Info: rm.jpg used on input line 544.
+(pdftex.def)             Requested size: 195.27649pt x 137.97166pt.
+
+<rd.jpg, id=133, 845.559pt x 597.432pt>
+File: rd.jpg Graphic file (type jpg)
+ <use rd.jpg>
+Package pdftex.def Info: rd.jpg used on input line 546.
+(pdftex.def)             Requested size: 195.27649pt x 137.97166pt.
+
+Overfull \hbox (52.23193pt too wide) in paragraph at lines 542--548
+[][] []
+ []
+
+
+Package natbib Warning: There were undefined citations.
+
+[31 <E:/1paper_writing/two/Plant and Soil LaTeX/Fig00.jpg> <E:/1paper_writing/t
+wo/Plant and Soil LaTeX/rootsystem.jpg>] [32 <E:/1paper_writing/two/Plant and S
+oil LaTeX/Fig1.jpg> <E:/1paper_writing/two/Plant and Soil LaTeX/Fig2.jpg>]
+[33 <E:/1paper_writing/two/Plant and Soil LaTeX/Fig3.jpg> <E:/1paper_writing/tw
+o/Plant and Soil LaTeX/Fig4.jpg>] [34 <E:/1paper_writing/two/Plant and Soil LaT
+eX/Fig13.jpg> <E:/1paper_writing/two/Plant and Soil LaTeX/Fig5.jpg>] [35 <E:/1p
+aper_writing/two/Plant and Soil LaTeX/Fig6.jpg> <E:/1paper_writing/two/Plant an
+d Soil LaTeX/Fig10.jpg>] [36 <E:/1paper_writing/two/Plant and Soil LaTeX/Fig15.
+jpg> <E:/1paper_writing/two/Plant and Soil LaTeX/Fig14.jpg>] [37 <E:/1paper_wri
+ting/two/Plant and Soil LaTeX/Fig16.jpg>] [38 <E:/1paper_writing/two/Plant and 
+Soil LaTeX/upslope.jpg> <E:/1paper_writing/two/Plant and Soil LaTeX/Mid-slope.j
+pg> <E:/1paper_writing/two/Plant and Soil LaTeX/downslope.jpg>] [39 <E:/1paper_
+writing/two/Plant and Soil LaTeX/ru.jpg> <E:/1paper_writing/two/Plant and Soil 
+LaTeX/rm.jpg> <E:/1paper_writing/two/Plant and Soil LaTeX/rd.jpg>]
+("E:\1paper_writing\two\Plant and Soil LaTeX\soilscience.aux")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3595 strings out of 495354
+ 49437 string characters out of 3183859
+ 111540 words of memory out of 3000000
+ 6704 multiletter control sequences out of 15000+200000
+ 16690 words of font info for 62 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 27i,9n,24p,2603b,391s stack positions out of 5000i,500n,10000p,200000b,50000s
+<E:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><E:/CTEX/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmbx12.pfb><E:/CTEX/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmbx8.pfb><E:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><E:/
+CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><E:/CTEX/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmmi5.pfb><E:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmmi6.pfb><E:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><E:/CTEX/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><E:/CTEX/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmr5.pfb><E:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><
+E:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/CTEX/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr9.pfb><E:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmss8.pfb><E:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><E:/CTEX/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:/CTEX/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmsy9.pfb><E:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb
+><E:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on soilscience.pdf (39 pages, 11476563 bytes).
+PDF statistics:
+ 224 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+
