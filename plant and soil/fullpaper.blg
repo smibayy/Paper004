@@ -1,0 +1,13 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: fullpaper.aux
+The style file: spbasic.bst
+Database file #1: mybibfile.bib
+Repeated entry---line 729 of file mybibfile.bib
+ : @article{Pollen2007Temporal
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 831 of file mybibfile.bib
+ : @article{Arnone2016Modeling
+ :                            ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "WuModeling"
+(There were 2 error messages)
