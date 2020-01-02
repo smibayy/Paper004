@@ -1,0 +1,51 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI~\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI~\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Arnone et~al(2016)Arnone, Caracciolo, Noto, Preti, and
+  Bras}]{Arnone2016Modeling}
+Arnone E, Caracciolo D, Noto LV, Preti F, Bras RL (2016) Modeling the
+  hydrological and mechanical effect of roots on shallow landslides. Water
+  Resources Research 52(11)
+
+\bibitem[{Cho and Lee(2002)}]{Cho2002Eva}
+Cho SE, Lee SR (2002) Evaluation of surficial stability for homogeneous slopes
+  considering rainfall characteristics. Journal of Geotechnical and
+  Geoenvironmental Engineering 128(9):756--763
+
+\bibitem[{Genuchten(1980)}]{Genuchten1980A}
+Genuchten MTV (1980) A closed-form equation for predicting the hydraulic
+  conductivity of unsaturated soils. Soil Science Society of America Journal
+  44(44):892--898
+
+\bibitem[{Lu and Godt(2008)}]{Lu2008Infinite}
+Lu N, Godt J (2008) Infinite slope stability under steady unsaturated seepage
+  conditions. Water Resources Research 44(11):2276--2283
+
+\bibitem[{Lu and Godt(2013)}]{lu2013hill}
+Lu N, Godt JW (2013) Hillslope hydrology and stability. Cambridge University
+  Press
+
+\bibitem[{Pedersen et~al(2009)Pedersen, Zhang, Thorup-Kristensen, and
+  Jensen}]{PedersenModelling}
+Pedersen A, Zhang K, Thorup-Kristensen K, Jensen LS (2009) Modelling diverse
+  root density dynamics and deep nitrogen uptake—a simple approach. Plant \&
+  Soil 326(1-2):493--510
+
+\bibitem[{Pollen(2007)}]{Pollen2007Temporal}
+Pollen N (2007) Temporal and spatial variability in root reinforcement of
+  streambanks: accounting for soil shear strength and moisture. Catena
+  69(3):197--205
+
+\bibitem[{Romano et~al(2011)Romano, Palladino, and Chirico}]{Romano2011Par}
+Romano N, Palladino M, Chirico GB (2011) Parameterization of a bucket model for
+  soil-vegetation-atmosphere modeling under seasonal climatic regimes.
+  Hydrology and Earth System Sciences 15(3):3877--3893
+
+\end{thebibliography}
