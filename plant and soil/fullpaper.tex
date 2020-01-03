@@ -129,6 +129,19 @@ where $\Theta$ is the soil saturation; $\theta$ is the soil water content; $\the
 \begin{equation}K(h) = K_s \Theta^{0.5}[1-(1-\Theta^{1/m})^m]^2\end{equation}
 where $K(h)$ is the hydraulic conductivity at a given suction head $h$; $K_s$ is the saturated hydraulic conductivity. 
 
+The vegetation transpiration is modelled using the water extraction from the roots, $S(h)$ is defined as:
+\begin{equation}S(h)=\gamma(h)(T_{pot}/L_r)L_{nrd}(z_r)\end{equation}
+In this study, the function parameter $\gamma(h)$ is simplified as follows:
+
+\begin{equation}
+\gamma(h)= \begin{cases}
+0, & h \geq h_1 \quad or \quad h < h_4 \\
+\frac{h-h_1}{h_2-h_1}, & h_2 \leq h < h_1 \\
+1, & h_3 \leq h < h_2 \\
+\frac{h-h_4}{h_3-h_4}, & h_4 \leq h < h_3 
+\end{cases}
+\end{equation}
+
 \subsection{Transpiration}
 \begin{equation}ET_c=T_{pot}+E_{pot}=(K_{cb}+K_e)ET_0\end{equation}
 where:
@@ -148,17 +161,16 @@ R_{z,min};\quad \sum(DD-DD_{lag})k_{rz}+R_{z,min}>R_{z,max}\end{array} \right.\e
 where $DD$ is the Day-degress; $DD_{lag}$ is the lag phase for initiating root growth;
 $R_{z,max}$ is the maximum rooting depth; $R_{z,min}$ is the rooting depth at sowing or planting; $T_{min}$ is minimum temperature for root growth; $T_{max}$ is the maximum temperature for root growth.
 
-The root density distributions at different growth stages are quite similar, which indicate the feasibility of using a single normalized root density function for the whole growth season of each crop. A third-order polynomial equation was utilized to fit the pooled data of each crop as follows\cite{WuModeling}:
-\begin{equation}L_{nrd}(z_r)=R_0+R_{1z_r}+R_{2z_r}^2+R_{3z_r}^3\end{equation}
-where $R_i$ ($i$=0,1,2,3) are the polynomial coeffecients.
 
-
-\subsubsection{Root density}
-
-a simple normalized root density function
-A third-order polynomial equation was utilized to fit the pooled data of each vegetation as follows:
+\subsubsection{Root length density}
+\cite{WuMod} shown that the root density of each crop can using a single normalized function to describe for the whole growth. A third-order polynomial equation was utilized to fit the pooled data of each plant as follows:
 \begin{equation}L_{nrd}(z_r) = R_0 + R_1z_r+R_2z_r^2+R_3z_r^3\end{equation}
 where $R_i (i=0,1,2,3) $ are the polynomial coefficients.
+
+\subsubsection{Root additional cohesion}
+A dense root density can more significantly increasing the root additional cohesion \citep{OsmanParameters, Zhang2015Effects}. 
+\begin{equation}c_r=A_0 L_{nrd}+A_1\end{equation}
+where $c_r$ is the root additional cohesion, $A_i(i=0,1)$ are the polynomial cofficients.
 
 \subsection{Infinite slope model}
 
