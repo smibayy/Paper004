@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2019.11.29)  2 JAN 2020 17:08
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2019.11.29)  3 JAN 2020 11:13
 entering extended mode
-**H:/科研/小论文/1paper_writing/five/plant*and*soil/fullpaper.tex
-("H:/科研/小论文/1paper_writing/five/plant and soil/fullpaper.tex"
+**C:/Users/zhang/Documents/GitHub/Paper004/plant*and*soil/fullpaper.tex
+("C:/Users/zhang/Documents/GitHub/Paper004/plant and soil/fullpaper.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
 (C:\CTEX\MiKTeX\tex\latex\base\fix-cm.sty
@@ -10,13 +10,13 @@ Package: fix-cm 2006/09/13 v1.1m fixes to LaTeX
 (C:\CTEX\MiKTeX\tex\latex\base\ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 ))
-("H:\科研\小论文\1paper_writing\five\plant and soil\svjour3.cls"
+("C:\Users\zhang\Documents\GitHub\Paper004\plant and soil\svjour3.cls"
 Document Class: svjour3 2007/05/08 v3.2 
 LaTeX document class for Springer journals
 Class Springer-SVJour3 Info: extra/valid Springer sub-package (-> *.clo) 
 (Springer-SVJour3)           not found in option list of \documentclass
 (Springer-SVJour3)           - autoactivating "global" style.
-("H:\科研\小论文\1paper_writing\five\plant and soil\svglov3.clo"
+("C:\Users\zhang\Documents\GitHub\Paper004\plant and soil\svglov3.clo"
 File: svglov3.clo 2009/12/18 v3.2 style option for standardised journals
 
 SVJour Class option: svglov3.clo for standardised journals
@@ -256,7 +256,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-("H:\科研\小论文\1paper_writing\five\plant and soil\fullpaper.aux")
+("C:\Users\zhang\Documents\GitHub\Paper004\plant and soil\fullpaper.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
 LaTeX Font Info:    ... okay on input line 65.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
@@ -299,50 +299,46 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 
 SVJour3 Warning: Title too long for running head.
 Please supply a shorter form with \titlerunning prior to \maketitle
-[1{C:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}]
-
-Package natbib Warning: Citation `WuModeling' on page 2 undefined on input line
- 151.
-
-[2] <slopemodel.jpg, id=20, 456.5055pt x 202.95825pt>
+[1{C:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}] [2]
+[3] <slopemodel.jpg, id=25, 456.5055pt x 202.95825pt>
 File: slopemodel.jpg Graphic file (type jpg)
  <use slopemodel.jpg>
-Package pdftex.def Info: slopemodel.jpg used on input line 184.
+Package pdftex.def Info: slopemodel.jpg used on input line 196.
 (pdftex.def)             Requested size: 347.0pt x 154.27155pt.
 
-("H:\科研\小论文\1paper_writing\five\plant and soil\fullpaper.bbl"
-[3]
+("C:\Users\zhang\Documents\GitHub\Paper004\plant and soil\fullpaper.bbl"
+[4 <C:/Users/zhang/Documents/GitHub/Paper004/plant and soil/slopemodel.jpg>]
 Missing character: There is no � in font cmr9!
 Missing character: There is no � in font cmr9!
 Missing character: There is no � in font cmr9!
- [4 <H:/科研/小论文/1paper_writing/five/plant and soil/slopemodel.jpg>])
-
-Package natbib Warning: There were undefined citations.
-
-[5] ("H:\科研\小论文\1paper_writing\five\plant and soil\fullpaper.aux") ) 
+Missing character: There is no � in font cmr9!
+Missing character: There is no � in font cmr9!
+Missing character: There is no � in font cmr9!
+)
+[5] ("C:\Users\zhang\Documents\GitHub\Paper004\plant and soil\fullpaper.aux") )
+ 
 Here is how much of TeX's memory you used:
- 3373 strings out of 495354
- 45746 string characters out of 3183858
- 99690 words of memory out of 3000000
- 6504 multiletter control sequences out of 15000+200000
+ 3381 strings out of 495354
+ 45927 string characters out of 3183858
+ 99827 words of memory out of 3000000
+ 6512 multiletter control sequences out of 15000+200000
  13587 words of font info for 52 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 27i,10n,24p,558b,309s stack positions out of 5000i,500n,10000p,200000b,50000s
-<
-C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/CTEX/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmbx8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmbx9.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/CTEX
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/CTEX/MiKTeX/fonts/type1/pu
-blic/amsfonts/cm/cmmi6.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9
+ 27i,10n,24p,559b,301s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/CTEX/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmbx8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmbx9.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/CTE
+X/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/CTEX/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi9.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5
 .pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/CTEX/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmr8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmr9.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/CTE
-X/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/CTEX/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmsy9.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmti
-9.pfb>
-Output written on fullpaper.pdf (5 pages, 377087 bytes).
+X/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/CTEX/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmsy8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy
+9.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on fullpaper.pdf (5 pages, 388225 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
+ 79 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
