@@ -109,18 +109,12 @@
 
 \subsection{The mechanical reinforcement model}
 
-
-
-
-
 \subsection{Soil hydrological dynamic model}
 
 The SWAP (Soil, Water, Atmosphere, and Plant) model has been applied widely to simulate soil water dynamics in the vegetated slope \citep{Romano2011Par}. In this study, we employed the Richards' equation to simulate the soils-vegetation-atmosphere interactions under unsaturated conditions; The modified Richards' equation can be written as follows:
 
 \begin{equation}\frac{\partial \theta}{\partial t}=\frac{\partial}{\partial z}(k\frac{\partial h}{\partial z}) + S(z)\end{equation}
 where $k$ is the unsaturated soil permeability at a given suction; $h$ is the hydraulic head; $x$, and $z$ are the coordinates in the horizontal and vertical directions, respectively; $\theta$ is the volumetric water content; $t$ is the time; $S$ is the source/sink term.
-
-
 
 The soil water characteristic curve (SWCC) and hydraulic conductivity functions (HFC) are written according to the Van-Genuchten \cite{Genuchten1980A}
 \begin{equation}\Theta=\frac{\theta-\theta_r}{\theta_s-\theta_r}=[\frac{1}{1+|\alpha h|^n}]^m\end{equation}
@@ -161,7 +155,6 @@ R_{z,min};\quad \sum(DD-DD_{lag})k_{rz}+R_{z,min}>R_{z,max}\end{array} \right.\e
 where $DD$ is the Day-degress; $DD_{lag}$ is the lag phase for initiating root growth;
 $R_{z,max}$ is the maximum rooting depth; $R_{z,min}$ is the rooting depth at sowing or planting; $T_{min}$ is minimum temperature for root growth; $T_{max}$ is the maximum temperature for root growth.
 
-
 \subsubsection{Root length density}
 \cite{WuMod} shown that the root density of each crop can using a single normalized function to describe for the whole growth. A third-order polynomial equation was utilized to fit the pooled data of each plant as follows:
 \begin{equation}L_{nrd}(z_r) = R_0 + R_1z_r+R_2z_r^2+R_3z_r^3\end{equation}
@@ -183,8 +176,6 @@ The suction stress can be expressed in terms of normalized volumetric water cont
 \begin{equation}\sigma^s = -\frac{\theta-\theta_r}{\theta_s-\theta_r}(u_a-u_w)\end{equation}
 where $\theta$ is the volumetric water content, $\theta_r$ is the residual volumetric water content; $\theta_s$ is the saturated volumetric water content; $u_a$ is the pore air pressure; $u_s$ is the pore water pressure.
 
-
-
 For vegetated slope, the mechanical reinforcement provided by roots is quantified by means of a root cohesion term $c_r$ \citep{Pollen2007Temporal,Arnone2016Modeling}, so that the total cohesion of root-soil $c_{tot} = c_r+c_s$ and the factor of safety becomes
 \begin{equation}F=\frac{c_r+c_s+(\gamma z cos^2 \beta - \sigma^s) tan \phi^{'} }{\gamma z sin \beta cos \beta} \end{equation}
 which, after rearranging and applying trigonometric identities, becomes:
@@ -198,12 +189,13 @@ In the Eq.(\ref{1}), terms 1 and 2 are, respectively, the slope stability contri
 \end{figure*} 
 \label{fig:sm}
 
+\section{Numerical experiment}
 
+\subsection{Numerical models and boundary conditions}
 
+\subsection{Model parameters}
 
-
-\section{Result}
-
+\section{Results}
 
 \subsection{Effects of root system on the slope stability}
 
@@ -211,10 +203,10 @@ In the Eq.(\ref{1}), terms 1 and 2 are, respectively, the slope stability contri
 \subsection{Effects of slope geometry on the slope stability}
 
 
-\section{Discussion}
+\section{Discussions}
 
 
-\section{Conclusion}
+\section{Conclusions}
 
 
 
