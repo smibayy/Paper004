@@ -1,4 +1,4 @@
-\begin{thebibliography}{8}
+\begin{thebibliography}{11}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{{#1}}
 \providecommand{\urlprefix}{URL }
@@ -32,6 +32,10 @@ Lu N, Godt J (2008) Infinite slope stability under steady unsaturated seepage
 Lu N, Godt JW (2013) Hillslope hydrology and stability. Cambridge University
   Press
 
+\bibitem[{Osman and Barakbah(2006)}]{OsmanParameters}
+Osman N, Barakbah S (2006) Parameters to predict slope stability—soil water
+  and root profiles. Ecological Engineering 28(1):90--95
+
 \bibitem[{Pedersen et~al(2009)Pedersen, Zhang, Thorup-Kristensen, and
   Jensen}]{PedersenModelling}
 Pedersen A, Zhang K, Thorup-Kristensen K, Jensen LS (2009) Modelling diverse
@@ -47,5 +51,14 @@ Pollen N (2007) Temporal and spatial variability in root reinforcement of
 Romano N, Palladino M, Chirico GB (2011) Parameterization of a bucket model for
   soil-vegetation-atmosphere modeling under seasonal climatic regimes.
   Hydrology and Earth System Sciences 15(3):3877--3893
+
+\bibitem[{Wu et~al(1999)Wu, Zhang, and Gui}]{WuMod}
+Wu J, Zhang R, Gui S (1999) Modeling soil water movement with water uptake by
+  roots. Plant \& Soil 215(1):7--17
+
+\bibitem[{Zhang et~al(2015)Zhang, Fa-Hu, and Zhang}]{Zhang2015Effects}
+Zhang HR, Fa-Hu LI, Zhang XP (2015) Effects of wild herbaceous vegetation roots
+  on undisturbed surface soil shear strength. Journal of China Agricultural
+  University 20(4):189--195
 
 \end{thebibliography}
