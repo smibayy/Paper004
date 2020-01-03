@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2019.11.29)  3 JAN 2020 11:13
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2019.11.29)  3 JAN 2020 11:45
 entering extended mode
 **C:/Users/zhang/Documents/GitHub/Paper004/plant*and*soil/fullpaper.tex
 ("C:/Users/zhang/Documents/GitHub/Paper004/plant and soil/fullpaper.tex"
@@ -303,7 +303,7 @@ Please supply a shorter form with \titlerunning prior to \maketitle
 [3] <slopemodel.jpg, id=25, 456.5055pt x 202.95825pt>
 File: slopemodel.jpg Graphic file (type jpg)
  <use slopemodel.jpg>
-Package pdftex.def Info: slopemodel.jpg used on input line 196.
+Package pdftex.def Info: slopemodel.jpg used on input line 187.
 (pdftex.def)             Requested size: 347.0pt x 154.27155pt.
 
 ("C:\Users\zhang\Documents\GitHub\Paper004\plant and soil\fullpaper.bbl"
@@ -324,7 +324,7 @@ Here is how much of TeX's memory you used:
  6512 multiletter control sequences out of 15000+200000
  13587 words of font info for 52 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 27i,10n,24p,559b,301s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,10n,24p,559b,297s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/CTEX/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmbx8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmbx9.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/CTE
@@ -336,7 +336,7 @@ ts/cm/cmr9.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/CTE
 X/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/CTEX/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmsy8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy
 9.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on fullpaper.pdf (5 pages, 388225 bytes).
+Output written on fullpaper.pdf (5 pages, 388732 bytes).
 PDF statistics:
  79 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
